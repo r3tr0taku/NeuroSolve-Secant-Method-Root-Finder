@@ -53,7 +53,7 @@ class Tooltip:
                 self.tooltip_window,
                 text=self.text,
                 bg_color="#000000",
-                fg_color="#FFFF00",
+                fg_color="#C3C3BF",
                 text_color="#000000",
                 padx=8,
                 pady=4,
